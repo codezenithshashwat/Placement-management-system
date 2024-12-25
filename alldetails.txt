@@ -1,0 +1,47 @@
+0001,Google,Technology,Software Development,CSE, IT, ECE, EI,8.5,0
+0764,Deloitte,Consulting,Management Consulting,CSE, IT, ECE, EI,8.5,0
+0002,Goldman Sachs,Finance,Investment Banking,CSE, IT,8.5,0
+0004,Microsoft,Technology,Software Engineering,CSE, IT,8.5,0
+0345,Accenture,Consulting,Technology Consulting,CSE, IT, ECE, EI,7.5,0
+0364,Cognizant,Technology,IT Services,CSE, IT,7.5,0
+8392,Apex Dynamics,Technology,Software Development,CSE, IT,7.5,0
+2467,Infinity Coders,Technology,Software Development,CSE, IT,7.5,0
+0443,Johnson Control Hitachi,Engineering,Engineering Services,CSE, IT, ECE, EI,7,0
+0664,Persistence Systems,IT Services,Software Development,CSE, IT, ECE, EI,7,0
+1753,Synergy Corp,Engineering,Engineering Services,CSE, IT, ECE, EI,7,0
+9084,Horizon Systems,Technology,IT Services,CSE, IT, ECE, EI,7,0
+6341,Bluewave Technologies,Technology,Software Development,CSE, IT, ECE, EI,7,0
+0874,Tata Consultancy Services,IT Services,IT Consulting,CSE, IT, ECE, EI,6,0
+0623,Infosys,IT Services,Software Development,CSE, IT, ECE, EI,6,0
+1289,TechNova Solutions,Technology,Engineering Services,ECE, EI,8.5,0
+7531,Global Innovators,Technology,IT Solutions,ECE, EI,8.5,0
+3916,Visionary Labs,Technology,Research and Development,ECE, EI,7.5,0
+5628,QuantumSoft,Technology,Software Development,ECE, EI,7.5,0
+4411,Siemens India,Engineering,Engineering Services,EE,7.5,0
+8876,Luminous Power Technologies,Engineering,Power Solutions,EE,7.5,0
+5654,Exide Industries,Manufacturing,Battery Manufacturing,EE,7.5,0
+2135,Crompton Greaves,Engineering,Electrical Equipment,EE,7.5,0
+7764,Bajaj Electricals,Engineering,Electrical Services,EE,7,0
+9072,V-Guard Industries,Engineering,Electrical Equipment,EE,7,0
+3871,KEI Industries,Manufacturing,Electrical Wires,EE,6.5,0
+7639,Orient Electric,Manufacturing,Electrical Appliances,EE,6.5,0
+2345,Larsen & Toubro (L&T),Engineering,Construction Services,ME,8.5,0
+1123,Tata Motors,Automotive,Vehicle Manufacturing,ME,8.5,0
+3344,Mahindra & Mahindra,Automotive,Vehicle Manufacturing,ME,8.5,0
+6789,Ashok Leyland,Automotive,Commercial Vehicles,ME,8.5,0
+5566,Kirloskar Group,Manufacturing,Industrial Equipment,ME,8.5,0
+4576,Bosch India,Engineering,Engineering Solutions,ME,7.5,0
+7983,Bharat Forge,Manufacturing,Forged Products,ME,7.5,0
+2245,JCB India,Manufacturing,Construction Equipment,ME,7.5,0
+3355,Hero MotoCorp,Automotive,Motorcycles,ME,7.5,0
+9091,Bajaj Auto,Automotive,Vehicle Manufacturing,ME,7,0
+6374,Cummins India,Manufacturing,Engine Manufacturing,ME,7,0
+1432,Force Motors,Automotive,Vehicle Manufacturing,ME,6.5,0
+8526,Hindustan Aeronautics Limited (HAL),Aerospace,Aircraft Manufacturing,ME,6.5,0
+7788,Hindustan Construction Company (HCC),Construction,Infrastructure Development,CE,8.5,0
+6677,L&T Construction,Construction,Infrastructure Development,CE,8.5,0
+4455,Shapoorji Pallonji Group,Construction,Infrastructure Development,CE,8.5,0
+9912,GMR Infrastructure,Infrastructure,Development Projects,CE,8.5,0
+2233,DLF Limited,Real Estate,Real Estate Development,CE,8.5,0
+
+2322,omega,tech,software develooper ,cse ei,7.8,0

@@ -1,0 +1,47 @@
+0001,Technology,CSE,8.5,0
+0764,Consulting,CSE,8.5,0
+0002,Finance,CSE,8.5,0
+0004,Technology,CSE,8.5,0
+0345,Consulting,CSE,7.5,0
+0364,Technology,CSE,7.5,0
+8392,Technology,CSE,7.5,0
+2467,Technology,CSE,7.5,0
+0443,Engineering,CSE,7,0
+0664,IT Services,CSE,7,0
+1753,Engineering,CSE,7,0
+9084,Technology,CSE,7,0
+6341,Technology,CSE,7,0
+0874,IT Services,CSE,6,0
+0623,IT Services,CSE,6,0
+1289,Technology,ECE,8.5,0
+7531,Technology,ECE,8.5,0
+3916,Technology,ECE,7.5,0
+5628,Technology,ECE,7.5,0
+4411,Engineering,EE,7.5,0
+8876,Engineering,EE,7.5,0
+5654,Manufacturing,EE,7.5,0
+2135,Engineering,EE,7.5,0
+7764,Engineering,EE,7,0
+9072,Engineering,EE,7,0
+3871,Manufacturing,EE,6.5,0
+7639,Manufacturing,EE,6.5,0
+2345,Engineering,ME,8.5,0
+1123,Automotive,ME,8.5,0
+3344,Automotive,ME,8.5,0
+6789,Automotive,ME,8.5,0
+5566,Manufacturing,ME,8.5,0
+4576,Engineering,ME,7.5,0
+7983,Manufacturing,ME,7.5,0
+2245,Manufacturing,ME,7.5,0
+3355,Automotive,ME,7.5,0
+9091,Automotive,ME,7,0
+6374,Manufacturing,ME,7,0
+1432,Automotive,ME,6.5,0
+8526,Aerospace,ME,6.5,0
+7788,Construction,CE,8.5,0
+6677,Construction,CE,8.5,0
+4455,Construction,CE,8.5,0
+9912,Infrastructure,CE,8.5,0
+2233,Real Estate,CE,8.5,0
+
+2322,tech,cse ei,7.8,0
